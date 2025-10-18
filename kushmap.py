@@ -1,3 +1,8 @@
+from os import system as cmd
+
+# cmd("pip install --upgrade pip")
+cmd("pip install pygame")
+
 import pygame
 import sys
 
